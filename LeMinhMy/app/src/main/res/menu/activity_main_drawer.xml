@@ -5,34 +5,34 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_tools"
+            android:id="@+id/nav_trangchu"
             android:icon="@drawable/ic_baseline_home_24"
             android:title="Trang chủ" />
         <item
-            android:id="@+id/nav_tools1"
+            android:id="@+id/nav_danhsachcuahang"
             android:icon="@drawable/ic_baseline_list_alt_24"
             android:title="Danh Sách cửa hàng" />
         <item
-            android:id="@+id/nav_home"
+            android:id="@+id/nav_tinnhan"
             android:icon="@drawable/message"
             android:title="Tin Nhắn" />
         <item
-            android:id="@+id/nav_homeSan"
+            android:id="@+id/nav_follower"
             android:icon="@drawable/ic_baseline_favorite_24"
             android:title="Follower" />
         <item
 
-            android:id="@+id/nav_addTeam"
+            android:id="@+id/nav_giohang"
             android:icon="@drawable/cart"
             android:title="Giỏ hàng" />
         <item
 
-            android:id="@+id/nav_addSan"
+            android:id="@+id/nav_lichsu"
             android:icon="@drawable/ic_baseline_history_24"
             android:title="Lịch sử" />
 
         <item
-            android:id="@+id/nav_toolsSan"
+            android:id="@+id/nav_caidat"
             android:icon="@drawable/ic_baseline_settings_24"
             android:title="Cài đặt" />
     </group>
@@ -45,7 +45,6 @@
                 android:title="Login"
                 />
             <item
-                android:visible="false"
                 android:id="@+id/nav_logout"
                 android:icon="@drawable/ic_baseline_login_24"
                 android:title="LogOut" />

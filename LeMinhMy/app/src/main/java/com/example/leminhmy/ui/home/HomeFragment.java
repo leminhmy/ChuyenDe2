@@ -89,20 +89,21 @@ public class HomeFragment extends Fragment {
        bannerSliderViewPager = view.findViewById(R.id.banner_slider_view_pager);
        sliderModelList = new ArrayList<SliderModel>();
 
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher,"#FFE0F4F2"));
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher_round,"#FFE0F4F2"));
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.iphone,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.xaomi,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.lg,"#FFE0F4F2"));
 
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher_round,"#FFE0F4F2"));
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher,"#FFE0F4F2"));
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher_round,"#FFE0F4F2"));
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher,"#FFE0F4F2"));
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher_round,"#FFE0F4F2"));
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.iphone,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.xaomi,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.lg,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.iphone,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.xaomi,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.lg,"#FFE0F4F2"));
 
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher,"#FFE0F4F2"));
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher_round,"#FFE0F4F2"));
-        sliderModelList.add(new SliderModel(R.mipmap.ic_launcher,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.iphone,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.xaomi,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.lg,"#FFE0F4F2"));
+        sliderModelList.add(new SliderModel(R.drawable.lg,"#FFE0F4F2"));
 
 
         SliderAdapter sliderAdapter = new SliderAdapter(sliderModelList);
