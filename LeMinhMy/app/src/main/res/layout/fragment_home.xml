@@ -42,7 +42,8 @@
                 app:layout_constraintTop_toBottomOf="@+id/category_recylerview"
                 tools:ignore="MissingConstraints">
 
-                <include layout="@layout/horizontal_scroll_layout" />
+                <include layout="@layout/sliding_ad_layout"></include>
+
             </LinearLayout>
 
             <LinearLayout
@@ -54,7 +55,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/linearLayout"
                 tools:ignore="MissingConstraints">
 
-                <include layout="@layout/strip_ad_layout" />
+                <include layout="@layout/horizontal_scroll_layout" />
             </LinearLayout>
 
             <LinearLayout
@@ -64,8 +65,9 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
                 tools:ignore="MissingConstraints">
+                
+                <include layout="@layout/strip_ad_layout" />
 
-                <include layout="@layout/sliding_ad_layout"></include>
             </LinearLayout>
 
             <LinearLayout
