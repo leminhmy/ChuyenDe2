@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShoppingOnlinePostal</string>
+    <array name="arrRoles">
+        <item>Manager</item>
+        <item>User</item>
+    </array>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="openDrawer">Mỏ</string>
+    <string name="closeDrawer">Đóng</string>
+    <string name="ctk">Nếu bạn chưa có tài khoản hãy đăng ký tài khoản ngay</string>
+</resources>

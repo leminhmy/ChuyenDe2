@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4605704605",
+    "firebase_url": "https://shoppingonlinepostal.firebaseio.com",
+    "project_id": "shoppingonlinepostal",
+    "storage_bucket": "shoppingonlinepostal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4605704605:android:0e1b896c8269aafaf89774",
+        "android_client_info": {
+          "package_name": "com.anhkhiem.shoppingonlinepostal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4605704605-upi9a8ajulu9jvvetipkbsbjgg1f6pv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo1-JfnbNMdPWWnRIjwSTiY7G1NgGn46M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4605704605-upi9a8ajulu9jvvetipkbsbjgg1f6pv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
