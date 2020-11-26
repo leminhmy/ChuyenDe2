@@ -105,7 +105,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="8dp"
-        android:text="Rs.99999/-"
+        android:text="Rs.987755/-"
         android:textColor="#000"
         android:textSize="24sp"
         android:textStyle="bold"
